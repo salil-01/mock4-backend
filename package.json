@@ -8,9 +8,14 @@
     "server":"json-server --watch db.json --port 8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salil-01/mock4-backend.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/salil-01/mock4-backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json": "^11.0.0",
